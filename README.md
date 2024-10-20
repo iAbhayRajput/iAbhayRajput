@@ -12,13 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iabhayrajput&label=Profile%20views&color=0e75b6&style=flat" alt="iabhayrajput" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamsolskin" target="blank"><img src="https://img.shields.io/twitter/follow/iamsolskin?logo=twitter&style=for-the-badge" alt="iamsolskin" /></a> </p>
+<p align="left"> <a href="https://x.com/iRajputAbhay" target="blank"><img src="https://img.shields.io/twitter/follow/Abhay?logo=twitter&style=for-the-badge" alt="Abhay" /></a> </p>
 
 - 🔭 I’m currently working on **Ebadge**
 
 - 🌱 I’m currently learning **Cloud, Llama**
-
-- 📝 I regularly write articles on [techpointy.com](techpointy.com)
 
 - 💬 Ask me about **MERN**
 
