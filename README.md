@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Abhay+Rajput+%F0%9F%91%8B;AI+Engineer+%40+Hestabit+%F0%9F%A4%96;Building+LangGraph+multi-agent+systems;NL-to-SQL+on+Snowflake+%26+Databricks;RAG+%7C+LoRA%2FQLoRA+%7C+FastAPI;5x+Hackathon+Podium+Finisher+%F0%9F%8F%86" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=iAbhayRajput&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/iAbhayRajput?label=Followers&style=for-the-badge&logo=github" alt="followers"/>
 <img src="https://img.shields.io/badge/Open_to-AI%2FGenAI_roles-brightgreen?style=for-the-badge" alt="open to work"/>
 
 </div>
@@ -70,14 +69,6 @@ class Abhay:
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=iAbhayRajput&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iAbhayRajput&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iAbhayRajput&theme=onedark&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
 
 ## 🏆 Hackathon Wall of Fame
